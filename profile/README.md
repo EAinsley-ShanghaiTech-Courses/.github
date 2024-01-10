@@ -14,5 +14,9 @@ The purpose of this organization is to archive the courses I took at university 
 
 ### 2021 Spring
 
-- [CS100](https://github.com/EAinsley-ShanghaiTech-Courses/CS100)([syllabus](https://eams.shanghaitech.edu.cn/eams/courseSearchOther!printInfo.action?syllabus.id=11))
+- [CS100](https://github.com/EAinsley-ShanghaiTech-Courses/CS100) ([syllabus](https://eams.shanghaitech.edu.cn/eams/courseSearchOther!printInfo.action?syllabus.id=11))
+
+### 2021 Fall
+
+- [CS101](https://github.com/EAinsley-ShanghaiTech-Courses/CS101?) ([syllabus](https://eams.shanghaitech.edu.cn/eams/courseSearchOther!printInfo.action?syllabus.id=849), [course website](https://smart.sist.shanghaitech.edu.cn/cs101/))
 <!-- Update in the future -->
